@@ -1,0 +1,16 @@
+.country-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid greenyellow;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.country-container img{
+    height: 15rem;
+    width: 20rem;
+    object-fit: cover;
+    padding: 10px;
+}

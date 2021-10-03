@@ -1,0 +1,11 @@
+.countries-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 16px;
+    padding: 1rem;
+}
+
+.search-field{
+    display: flex;
+    justify-content: center;
+}
